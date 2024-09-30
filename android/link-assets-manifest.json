@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/HelveticaNowText-Black.ttf",
+      "sha1": "5ec8a50c4486d9c538560f1fca4b5eeff336bc93"
+    },
+    {
+      "path": "src/assets/fonts/HelveticaNowText-Bold.ttf",
+      "sha1": "80a98a1b669a0f0815cb6e4e35035c12e39c7dcf"
+    },
+    {
+      "path": "src/assets/fonts/HelveticaNowText-ExtraBold.ttf",
+      "sha1": "142f9e51d377039dde77876e1be706855ea96963"
+    },
+    {
+      "path": "src/assets/fonts/HelveticaNowText-ExtraLight.ttf",
+      "sha1": "fd035300a14d546f7edfad96d1c5ec20822716c5"
+    },
+    {
+      "path": "src/assets/fonts/HelveticaNowText-Light.ttf",
+      "sha1": "db322708622845ba9a7c687fe9acb4f61c45f7e1"
+    },
+    {
+      "path": "src/assets/fonts/HelveticaNowText-Medium.ttf",
+      "sha1": "06ddb6cbc90307c9ad7f95269de29c484ba69ded"
+    },
+    {
+      "path": "src/assets/fonts/HelveticaNowText-RegIta.ttf",
+      "sha1": "2d31088bbfc9817bbb2263e33334d0da8f50cedc"
+    },
+    {
+      "path": "src/assets/fonts/HelveticaNowText-Regular.ttf",
+      "sha1": "56132404a59d26ce10a9a0da9826b2f1979fb054"
+    },
+    {
+      "path": "src/assets/fonts/HelveticaNowText-Thin.ttf",
+      "sha1": "f0f5f2054d0365a6b1e5ff6449d6380347b5a3b4"
+    }
+  ]
+}

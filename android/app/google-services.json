@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540127703361",
+    "project_id": "moderna-cdb4c",
+    "storage_bucket": "moderna-cdb4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540127703361:android:9a0b89c577cc35dbdd71c0",
+        "android_client_info": {
+          "package_name": "com.thamoddya.moderna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuPbQjeN7vhtc5kH7-Hl7q5QtQiE0rWls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
